@@ -1,0 +1,10 @@
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ngadigi\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete
